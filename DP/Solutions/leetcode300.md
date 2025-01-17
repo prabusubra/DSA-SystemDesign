@@ -40,3 +40,42 @@ public class Solution {
     }
 }
 ```
+---
+### Golang
+
+```
+func lengthOfLIS(nums []int) int {
+    // Edge case: If the array is empty, return 0
+    if len(nums) == 0 {
+        return 0
+    }
+
+    // Initialize an array to store the LIS length ending at each index
+    dp := make([]int, len(nums))
+    for i := range nums {
+        dp[i] = 1 // Each element is an LIS of at least length 1
+    }
+
+    maxLength := 1 // Variable to track the global maximum LIS length
+
+    // Iterate through the array to compute LIS for each index
+    for current := 1; current < len(nums); current++ {
+        for previous := 0; previous < current; previous++ {
+            // Check if nums[current] can extend the LIS ending at nums[previous]
+            if nums[previous] < nums[current] {
+                // Update dp[current] if a longer LIS is found
+                if dp[current] < dp[previous]+1 {
+                    dp[current] = dp[previous] + 1
+                }
+            }
+        }
+        // Update the global maximum LIS length
+        if maxLength < dp[current] {
+            maxLength = dp[current]
+        }
+    }
+
+    return maxLength // Return the length of the longest increasing subsequence
+}
+```
+---
