@@ -28,7 +28,7 @@
 10. [Maximum product subarray](https://leetcode.com/problems/maximum-product-subarray/).
 
 
-## Prefix Sum Questions
+## 1.1 Prefix Sum
 
 1. [LeetCode 303: Range Sum Query – Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
 2. [LeetCode 560: Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
