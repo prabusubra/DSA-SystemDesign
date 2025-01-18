@@ -6,11 +6,8 @@ public int cutRod(int[] price) {
     int[][] memo = new int[n + 1][n + 1];
 
     // Initialize memo table with -1 (indicating unsolved subproblems)
-    for (int i = 0; i <= n; i++) {
-        for (int j = 0; j <= n; j++) {
-            memo[i][j] = -1;
-        }
-    }
+    for (int[] row: dp)
+            Arrays.fill(row, -1);
 
     return cutting(price, n, n, memo);
 }
