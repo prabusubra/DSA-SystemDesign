@@ -27,6 +27,34 @@
 9. [Find the median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/).
 10. [Maximum product subarray](https://leetcode.com/problems/maximum-product-subarray/).
 
+
+## Prefix Sum Questions
+
+### 1. [LeetCode 303: Range Sum Query – Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
+- **Problem Description**: Given an integer array `nums`, implement a method to calculate the sum of the elements between indices `left` and `right` inclusive.
+- **Key Concept**: Prefix Sum Array
+
+### 2. [LeetCode 560: Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+- **Problem Description**: Find the total number of continuous subarrays whose sum equals to a given integer `k`.
+- **Key Concept**: Prefix Sum Array, HashMap
+
+### 3. [LeetCode 238: Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+- **Problem Description**: Given an integer array `nums`, return an array such that each element at index `i` is the product of all the numbers in the original array except the one at `i`.
+- **Key Concept**: Prefix and Suffix Product Arrays
+
+### 4. [LeetCode 325: Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)
+- **Problem Description**: Given an array `nums` and an integer `k`, find the maximum length of a subarray that sums to `k`.
+- **Key Concept**: Prefix Sum Array, HashMap
+
+### 5. [LeetCode 974: Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)
+- **Problem Description**: Given an array `nums` and an integer `k`, return the total number of subarrays whose sum is divisible by `k`.
+- **Key Concept**: Prefix Sum and HashMap
+  
+### Additional Resources
+- **Leetcode Practice**: [Prefix Sum Problems on Leetcode](https://leetcode.com/tag/prefix-sum/)
+- **GeeksforGeeks Practice**: [Prefix Sum Problems on GFG](https://www.geeksforgeeks.org/introductions-to-prefix-sum-array/)
+---
+
 ## 2. Strings
 1. [Check if two strings are anagrams](https://leetcode.com/problems/valid-anagram/).
 2. [Reverse a string without affecting special characters](https://practice.geeksforgeeks.org/problems/reverse-a-string/1).
