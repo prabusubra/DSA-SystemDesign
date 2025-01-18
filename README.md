@@ -98,6 +98,7 @@
 8. [Subset sum problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem/0).
 9. [Maximum sum increasing subsequence](https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence/0).
 10. [Decode ways](https://leetcode.com/problems/decode-ways/).
+11. [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/).
 
 ## 8. Sorting and Searching
 1. [Quick sort implementation](https://practice.geeksforgeeks.org/problems/quick-sort/0).
