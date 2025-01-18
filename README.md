@@ -34,8 +34,8 @@
 2. [LeetCode 560: Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
 3. [LeetCode 238: Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 4. [LeetCode 325: Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)
-   [GFG: Longest Subarray With Sum K](https://www.geeksforgeeks.org/longest-sub-array-sum-k/)
-5. [LeetCode 974: Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)
+5. [GFG: Longest Subarray With Sum K](https://www.geeksforgeeks.org/longest-sub-array-sum-k/)
+6. [LeetCode 974: Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)
   
 ## Additional Resources
 - **Leetcode Practice**: [Prefix Sum Problems on Leetcode](https://leetcode.com/tag/prefix-sum/)
