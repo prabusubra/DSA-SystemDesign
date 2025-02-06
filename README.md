@@ -151,6 +151,7 @@
 8. [Knight's tour problem](https://practice.geeksforgeeks.org/problems/knight-tour-problem/0).
 9. [Hamiltonian path and cycle problem](https://practice.geeksforgeeks.org/problems/hamiltonian-path/0).
 10. [Find all palindrome partitioning of a string](https://leetcode.com/problems/palindrome-partitioning/).
+11. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 
 ## 11. Miscellaneous
 1. [Design a stack that supports push, pop, top, and retrieving the minimum element in constant time](https://leetcode.com/problems/min-stack/).
