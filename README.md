@@ -89,6 +89,7 @@
 8. [Kth smallest element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/).
 9. [Path sum problems](https://leetcode.com/problems/path-sum/).
 10. [Convert a binary tree to a doubly linked list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/).
+11. [Pair Sum](https://www.geeksforgeeks.org/problems/find-a-pair-with-given-target-in-bst/1).
 
 ## 6. Graphs
 1. [Implement depth-first search (DFS) and breadth-first search (BFS)](https://leetcode.com/problems/clone-graph/).
