@@ -41,4 +41,4 @@
   - ### Configuration Externalization Pattern
   - ### Strangler Fig Pattern
   - ### Leader Election Pattern
-  - ### 
+  - ### Logging
