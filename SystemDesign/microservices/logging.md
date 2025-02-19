@@ -6,6 +6,8 @@ In a microservices architecture, multiple independent services generate logs. Wi
 
 Centralized logging is the practice of aggregating logs from all microservices into a single location, making it easier to ***search, analyze, and monitor*** logs.
 
+Log file --> logstash(for data processing) --> Elastic Search (for storage) --> kibana (for visualization)
+
 ## Spring Boot Logging (Logback + SLF4J)
 
 ## Log Aggregation Tools
