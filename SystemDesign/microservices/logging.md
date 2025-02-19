@@ -1,6 +1,21 @@
-# Centralized Logging in Microservices
+# Microservices Logging:-
 
-In a microservices architecture, multiple independent services generate logs. Without centralized logging, debugging and monitoring can become a nightmare, as logs are scattered across different services.
+  In a microservices architecture, multiple independent services generate logs. Without centralized logging, debugging and monitoring can become a nightmare, as logs are scattered across different services.
+  
+    💡 - **Centralized Logging** 
+    💡 - **Tracing Request** 
+    💡 - **Real-Time** 
+    💡 - **Log Streaming to UI** 
+
+## Real-Time Monitoring with Prometheus & Grafana
+
+| Component              | Spring Cloud Solution                  |
+|------------------------|--------------------------------------|
+| Centralized Logging    | Logback + Logstash + ELK             |
+| Tracing Requests      | Spring Cloud Sleuth + Zipkin         |
+| Real-Time Monitoring   | Micrometer + Prometheus + Grafana   |
+| Log Streaming to UI    | WebSockets or REST API              |
+| Security & Compliance  | Secure log storage & auditing       |
 
 💡 **What is Centralized Logging?**
 
@@ -22,12 +37,3 @@ Log file --> logstash(for data processing) --> Elastic Search (for storage) --> 
 | Loki + Promtail + Grafana   | Lightweight log aggregation | Grafana |
 | Fluentd                     | Log collector & forwarder  | Elasticsearch, Cloud |
 
-## Real-Time Monitoring with Prometheus & Grafana
-
-| Component              | Spring Cloud Solution                  |
-|------------------------|--------------------------------------|
-| Centralized Logging    | Logback + Logstash + ELK             |
-| Tracing Requests      | Spring Cloud Sleuth + Zipkin         |
-| Real-Time Monitoring   | Micrometer + Prometheus + Grafana   |
-| Log Streaming to UI    | WebSockets or REST API              |
-| Security & Compliance  | Secure log storage & auditing       |
