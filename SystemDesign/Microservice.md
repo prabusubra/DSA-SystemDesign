@@ -15,7 +15,7 @@
       - Server-Side
           - Consul and Zookeeper
         
-  - ### Circuit Breaker
+  - ### [Circuit Breaker](https://github.com/prabusubra/DSA-SystemDesign/blob/main/SystemDesign/microservices/circuitbreakers.md)
       - The Circuit Breaker Pattern is used to prevent cascading failures in microservices by detecting failures and stopping further requests until the service recovers.
       - Example: Resilient4J
           #### States:
