@@ -8,6 +8,10 @@ Centralized logging is the practice of aggregating logs from all microservices i
 
 Log file --> logstash(for data processing) --> Elastic Search (for storage) --> kibana (for visualization)
 
+⬛ ***Sleuth** adds ***trace IDs*** and ***span IDs*** to logs and propagates them across microservices.
+
+⬛ ***Zipkin*** Use Zipkin if you need end-to-end request tracing.
+
 ## Spring Boot Logging (Logback + SLF4J)
 
 ## Log Aggregation Tools
