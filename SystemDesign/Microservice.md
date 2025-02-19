@@ -41,4 +41,4 @@
   - ### Configuration Externalization Pattern
   - ### Strangler Fig Pattern
   - ### Leader Election Pattern
-  - ### [Centralized Logging](SystemDesign/microservices/logging.md)
+  - ### [Centralized Logging](file///SystemDesign/microservices/logging.md)
