@@ -37,3 +37,6 @@ Log file --> logstash(for data processing) --> Elastic Search (for storage) --> 
 | Loki + Promtail + Grafana   | Lightweight log aggregation | Grafana |
 | Fluentd                     | Log collector & forwarder  | Elasticsearch, Cloud |
 
+
+## Unified Approach for Logging, Tracing and Real-Time Monitoring:-
+    - 
