@@ -2,10 +2,10 @@
 
   In a microservices architecture, multiple independent services generate logs. Without centralized logging, debugging and monitoring can become a nightmare, as logs are scattered across different services.
   
-    💡 - **Centralized Logging** 
-    💡 - **Tracing Request** 
-    💡 - **Real-Time** 
-    💡 - **Log Streaming to UI** 
+ -  💡  **Centralized Logging** 
+ -  💡  **Tracing Request** 
+ -  💡  **Real-Time** 
+ -  💡  **Log Streaming to UI** 
 
 ## Real-Time Monitoring with Prometheus & Grafana
 
