@@ -11,7 +11,8 @@
 8. Sorting and Searching
 9. Bit Manipulation
 10. Backtracking
-11. Miscellaneous
+11. Greedy
+12. Miscellaneous
 
 ---
 
@@ -154,7 +155,11 @@
 10. [Find all palindrome partitioning of a string](https://leetcode.com/problems/palindrome-partitioning/).
 11. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 
-## 11. Miscellaneous
+## 11. Greedy
+1. [Jump Game](https://leetcode.com/problems/jump-game).
+2. [Gas Station](https://leetcode.com/problems/gas-station).
+
+## 12. Miscellaneous
 1. [Design a stack that supports push, pop, top, and retrieving the minimum element in constant time](https://leetcode.com/problems/min-stack/).
 2. [Implement an LFU Cache](https://leetcode.com/problems/lfu-cache/).
 3. [Find the maximum meetings in one room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room/0).
