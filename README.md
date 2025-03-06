@@ -106,17 +106,18 @@
 
 ## 7. Dynamic Programming
 1. [Longest increasing subsequence](https://leetcode.com/problems/longest-increasing-subsequence/).
-2. [0/1 Knapsack problem](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0).
-3. [Coin change problem](https://leetcode.com/problems/coin-change/).
-4. [Longest common subsequence](https://leetcode.com/problems/longest-common-subsequence/).
-5. [Edit distance problem](https://leetcode.com/problems/edit-distance/).
-6. [Maximum profit in a rod cutting problem](https://practice.geeksforgeeks.org/problems/rod-cutting/0).
-7. [Matrix chain multiplication](https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication/0).
-8. [Subset sum problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem/0).
-9. [Maximum sum increasing subsequence](https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence/0).
-10. [Decode ways](https://leetcode.com/problems/decode-ways/).
-11. [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/).
-12. [Count Number of Texts](https://leetcode.com/problems/count-number-of-texts/).
+2. [Longest Common Sequence](https://leetcode.com/problems/longest-common-subsequence).
+3. [0/1 Knapsack problem](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0).
+4. [Coin change problem](https://leetcode.com/problems/coin-change/).
+5. [Longest common subsequence](https://leetcode.com/problems/longest-common-subsequence/).
+6. [Edit distance problem](https://leetcode.com/problems/edit-distance/).
+7. [Maximum profit in a rod cutting problem](https://practice.geeksforgeeks.org/problems/rod-cutting/0).
+8. [Matrix chain multiplication](https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication/0).
+9. [Subset sum problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem/0).
+10. [Maximum sum increasing subsequence](https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence/0).
+11. [Decode ways](https://leetcode.com/problems/decode-ways/).
+12. [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/).
+13. [Count Number of Texts](https://leetcode.com/problems/count-number-of-texts/).
 
 ## 8. Sorting and Searching
 1. [Quick sort implementation](https://practice.geeksforgeeks.org/problems/quick-sort/0).
